@@ -2,7 +2,7 @@
 This is a tool to -Backup and -Restore saved WiFi networks on Windows.
 
 
-USAGE: 
+## USAGE
 
 -Backup: Save all wifi networks to a folder on your desktop
 
